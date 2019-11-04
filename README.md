@@ -11,5 +11,4 @@ This is a catalog of software projects and services using Chronicle software
 ## Services
 
 ## Examples and POC
-
-
+A simple [docker-compose app](https://github.com/eostitan/eosio-chronicle-indexer-template) which demonstrates consuming messages from Chronicle with a simple Python client.
