@@ -6,7 +6,7 @@ This is a catalog of software projects and services using Chronicle software
 
 ### Chronicle-cpp-consumer by Avm07
 
-[chronicle-cpp-consumer](https://github.com/Avm07/chronicle-cpp-consumer) is a Chronicle client client that is filter and store data for eosio.token contract by default in MongoDB.
+[chronicle-cpp-consumer](https://github.com/Avm07/chronicle-cpp-consumer) is a Chronicle client which filter and store data for eosio.token contract by default in MongoDB.
 
 ### Iris by CALEOS
 
