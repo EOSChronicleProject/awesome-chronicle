@@ -14,5 +14,10 @@ This is a catalog of software projects and services using Chronicle software
 
 ## Services
 
+### Spectrum by EOS Tribe
+
+[Spectrum](https://spectrumeos.io) is a streaming API For EOSIO Blockchains which allow dApp developers to subscribe and receive events in real time on multiple EOSIO chains.
+
 ## Examples and POC
 A simple [docker-compose app](https://github.com/eostitan/eosio-chronicle-indexer-template) which demonstrates consuming messages from Chronicle with a simple Python client.
+
